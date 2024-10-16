@@ -3,7 +3,8 @@
 **Introduction**
 
 InsightsAI is a user-friendly news research tool designed to empower you with the knowledge you need to navigate the financial world. It simplifies information retrieval from news articles, allowing you to focus on extracting actionable insights.
-![alt text]([http://url/to/img.png](https://github.com/ThatsRajeev/InsightsAI/blob/main/bot.jpg))
+![alt text](https://github.com/ThatsRajeev/InsightsAI/blob/main/bot.jpg)
+
 
 **Effortless Workflow:**
 * **Load Articles:** Import article URLs directly or upload text files containing URLs. InsightsAI takes care of the rest.
